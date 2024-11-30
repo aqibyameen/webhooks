@@ -6,7 +6,7 @@ import {
   UserButton
 } from '@clerk/nextjs'
 import './globals.css'
-import Home from './page'
+
 export default function RootLayout({
   children,
 }: {
